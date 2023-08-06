@@ -1,0 +1,177 @@
+@media screen and (max-width: 1025px){
+    header{
+        width: 100%;
+        max-width: 1380px;
+        display: flex;
+        box-shadow: 0px 0px 10px 0px #767474;
+        background-color: #e5eaee;
+        position: fixed;
+        top: 0;
+        z-index: 7;
+        padding-top: 62px;
+    }
+    .banner{
+        margin-top: 66px;
+    }
+
+    .toggle-btn{
+        display: block;
+        position: absolute;
+        top: 10px;
+    }
+
+    nav{
+        display: none;
+    flex: 100%;   
+    justify-content: space-around; 
+    left: 0;
+        right: 0;
+        position: absolute;
+    }
+    .logo{
+        flex: 100%;
+    }
+    nav ul{
+        justify-content: center;
+        flex: 0 0 100%;
+    }
+    nav ul li{
+        font-size: 1em;
+      padding: 10px;
+    }
+
+    .sln, .abt_img {
+        flex: 0 0 100%;
+
+    }
+    .service_menu ul li{
+        flex: 100%;
+    }
+    .gale ul li {
+        flex: 0 0 30%;
+    }
+    .team ul li{
+        flex: 0 0 47%;
+    }
+    .cont ul li, form, .map_dtl {
+        flex: 0 0 96%;
+    }
+}
+
+
+@media screen and (max-width: 768px)  {
+    
+    header{
+        width: 100%;
+        max-width: 1380px;
+        display: flex;
+        box-shadow: 0px 0px 10px 0px #767474;
+        background-color: #e5eaee;
+        position: fixed;
+        top: 0;
+        z-index: 7;
+        padding-top: 62px;
+    }
+
+    .toggle-btn{
+        display: block;
+        position: absolute;
+        top: 10px;
+    }
+
+    nav{
+        display: none;
+    flex: 100%;   
+    justify-content: space-around; 
+    left: 0;
+        right: 0;
+        position: absolute;
+    }
+    .logo{
+        flex: 100%;
+    }
+    nav ul{
+        justify-content: center;
+        flex: 0 0 100%;
+    }
+    nav ul li{
+        font-size: 1em;
+      padding: 10px;
+    }
+
+    .sln, .abt_img {
+        flex: 0 0 100%;
+
+    }
+    .service_menu ul li{
+        flex: 100%;
+    }
+    .gale ul li {
+        flex: 0 0 30%;
+    }
+    .team ul li{
+        flex: 0 0 47%;
+    }
+    .cont ul li, form, .map_dtl {
+        flex: 0 0 96%;
+    }
+
+}
+@media screen and (max-width: 540px)  {
+    
+    header{
+        width: 100%;
+        max-width: 1380px;
+        display: flex;
+        box-shadow: 0px 0px 10px 0px #767474;
+        background-color: #e5eaee;
+        position: fixed;
+        top: 0;
+        z-index: 7;
+        padding-top: 62px;
+    }
+
+    .toggle-btn{
+        display: block;
+        position: absolute;
+        top: 10px;
+    }
+
+    nav{
+        display: none;
+    flex: 100%;   
+    justify-content: space-around; 
+    left: 0;
+        right: 0;
+        position: absolute;
+    }
+    .logo{
+        flex: 100%;
+    }
+    nav ul{
+        justify-content: center;
+        flex: 0 0 100%;
+    }
+    nav ul li{
+        font-size: 1em;
+      padding: 10px;
+    }
+
+    .sln, .abt_img {
+        flex: 0 0 100%;
+
+    }
+    .service_menu ul li{
+        flex: 100%;
+    }
+    .gale ul li {
+        flex: 0 0 30%;
+    }
+    .team ul li{
+        flex: 0 0 47%;
+    }
+    .cont ul li, form, .map_dtl {
+        flex: 0 0 96%;
+    }
+
+}
